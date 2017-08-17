@@ -17,7 +17,7 @@
 ``` bash
 $ cd server
 $ npm install
-$ npm run dev
+$ npm start
 ```
 copy the External IP of your network displayed in the console and SET it as the `PATH` variable into `./src/store/config.js`
 
