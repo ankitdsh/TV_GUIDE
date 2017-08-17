@@ -1,7 +1,7 @@
 {
   "name": "astro_tv_guide_webapp",
   "version": "1.0.0",
-  "description": " PWA WebApp created in VUE.JS",
+  "description": "A PWA WebApp created in VUE.JS",
   "author": "Ankit Doshi",
   "private": true,
   "scripts": {
