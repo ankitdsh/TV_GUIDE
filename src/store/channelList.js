@@ -101,10 +101,6 @@ function sortProgrammeListByDateTime(programmeList) {
   })
 }
 
-function isProgrammeAvailable(list, ) {
-
-}
-
 // Initial State
 const state = {
   channelList: [],
@@ -121,7 +117,7 @@ const state = {
   errorMessage: ''
 }
 
-// // getters
+// getters
 const getters = {
   channelList: state => state.channelList,
   isChannelListFetching: state => state.fetching,
@@ -132,7 +128,7 @@ const getters = {
   programmeDate: state => state.programmeDate
 }
 
-// // Mutations
+// Mutations
 const mutations = {
 
   [TYPES.FETCHING_CHANNEL_LIST](state) {
