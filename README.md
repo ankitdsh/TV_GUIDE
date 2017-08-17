@@ -1,16 +1,15 @@
 
 
-A Reactive + Responsive + PWA created in VueJS using Webpack 
-# vue
+
+# A Reactive + Responsive + PWA created in VueJS using Webpack 
 
 > A full-featured [PWA](https://developers.google.com/web/progressive-web-apps/) with webpack, hot-reload, lint-on-save, unit testing & css extraction.
 
-## Documentation
 
 
 ## Usage / Installation
 
- **Prerequisite: npm 3+ or [yarn](https://yarnpkg.com).**
+ Prerequisite: npm 3+ or [yarn](https://yarnpkg.com).
 
 
 **API Server Installation**
@@ -22,7 +21,8 @@ $ npm run dev
 ```
 copy the External IP of your network displayed in the console and SET it as the `PATH` variable into `./src/store/config.js`
 
-*App Installation**
+
+**App Installation**
 
 ``` bash
 $ npm install 
@@ -30,7 +30,6 @@ $ npm run dev
 ```
 
 If port 8080 is already in use on your machine you must change the port number in `/config/index.js`. Otherwise `npm run dev` will fail.
-
 
 
 ## Features
@@ -53,7 +52,8 @@ If port 8080 is already in use on your machine you must change the port number i
 *	Toggling Favourites	+ device persistence
 *	Searching for a Channel
 *	Fetch Programme details for only those Channels in the ViewPort (needs more work on this)
-
+ 
+ 
 ## Whats Included
 *	VueJS
 *	Vuex
