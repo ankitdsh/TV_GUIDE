@@ -51,9 +51,9 @@ If port 8080 is already in use on your machine you must change the port number i
 *	Sorting based on Channel Name / Number (i.e channelStbNumber)
 *	Toggling Favourites	+ device persistence
 *	Searching for a Channel
-*	Fetch Programme details for only those Channels in the ViewPort (needs more work on this)
+*	Fetch Programme details for only those Channels in the ViewPort 
  
- 
+
 ## Whats Included
 *	VueJS
 *	Vuex
@@ -64,7 +64,7 @@ If port 8080 is already in use on your machine you must change the port number i
 *	Service Workers
 *	ES6 (Arrow,Objet Destructuring , template Literals)
 *	ES8 (Async/Await)
-*	NodeJS / Express Simple MiddleWare Server with CORS Enabled (since your API do not support JSONP)
-*	Ngrok for tunneling my local server to external IP (I will provide the URL for checking the APP)
+*	NodeJS / Express Simple MiddleWare Server with CORS Enabled 
+*	Ngrok for tunneling local server to external IP 
 *	etc..
 
